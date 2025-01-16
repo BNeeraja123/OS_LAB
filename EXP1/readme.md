@@ -52,7 +52,7 @@ operating system lab
 ![cmp command output](cmp.png)
 ### touch command output
 ![touch command output](touch.png)
-### chmod command output
+### who am i command output
 ![who am i command output](whoami.png)
 
 
