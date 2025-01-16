@@ -4,3 +4,4 @@ operating system lab
 ##General command outputs
 ### date command output
 ![date command output](date.png)
+![date manual command](mandate.png)
