@@ -5,6 +5,6 @@ Operating system lab
 ### FCFS and SJF OUTPUT
 ![ FCFS & SJF output](exp3.png)
 ### RR and PRIORITY OUTPUT
-![RR & PRIORITY output](exp3C.png)
-![ EXIT](exp3CC.png)
+![RR & PRIORITY output](exp3c.png)
+![ EXIT](exp3cc.png)
 
