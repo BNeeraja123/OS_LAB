@@ -1,1 +1,7 @@
+# OS-LAB
+Operating system lab
+# CONCURRENT EXECUTION OG THREADS
+## PTHREAD LIBRARY
+### THREADS OUTPUT
+![ THREADS output](exp5.png)
 
